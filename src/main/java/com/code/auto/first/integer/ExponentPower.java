@@ -1,4 +1,4 @@
-package com.code.auto.firstInteger;
+package com.code.auto.first.integer;
 
 public class ExponentPower {
 

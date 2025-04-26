@@ -1,11 +1,11 @@
-package com.code.auto.secondstring;
+package com.code.auto.second.string;
 
 public class LongestPrefix {
 
     /***
      *
      *
-     * redo
+     * REDO next iteration
      * @param args
      */
     public static void main(String[] args) {
