@@ -1,4 +1,4 @@
-package com.code.auto.secondstring;
+package com.code.auto.second.string;
 
 import java.util.HashMap;
 import java.util.Map;
