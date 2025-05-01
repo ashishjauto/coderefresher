@@ -4,7 +4,7 @@ public class FindSubsequence {
 
     public static void main(String[] args) {
 
-        String s = "axc";
+        String s = "ahc";
         String T = "ahbgdc";
 
         System.out.println(isSubSequence(s,T));

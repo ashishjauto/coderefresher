@@ -12,7 +12,7 @@ public class Palindrome {
      */
     public static void main(String[] args) {
 
-        int checkPalindrome=12321;
+        int checkPalindrome=123;
 
 
         System.out.println("YOUR RESULT "+checkIntegerPalindrome(checkPalindrome));
