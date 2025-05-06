@@ -1,4 +1,4 @@
-package com.code.auto.secondstring;
+package com.code.auto.second.string;
 
 import java.util.Arrays;
 
@@ -9,9 +9,11 @@ public class ReverseString {
 
         String value = "Ashish";
 
-        String reversed = Arrays.toString(reverseString(value.toCharArray()));
 
-        System.out.println(reversed);
+
+        System.out.println(reverseString(value.toCharArray()));
+
+        System.out.println(Arrays.toString(reverseString(value.toCharArray())));
 
 
     }
